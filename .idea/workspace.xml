@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/app/Http/Controllers/CheckoutController.php" line="12" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6e54579-caa9-4bf8-852f-4134bf7f7d77" name="Default Changelist" comment="" />
+    <list default="true" id="e6e54579-caa9-4bf8-852f-4134bf7f7d77" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +106,9 @@
       <replace>new-meta</replace>
       <replace />
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -258,6 +263,7 @@
     <option name="width" value="577" />
     <option name="height" value="728" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -310,7 +316,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../basic-portfolio" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../row-php" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -443,16 +449,18 @@
       <workItem from="1569220159947" duration="41000" />
       <workItem from="1569584700031" duration="569000" />
       <workItem from="1569588831625" duration="117000" />
+      <workItem from="1580104717126" duration="7000" />
+      <workItem from="1580133724398" duration="196000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="243542000" />
+    <option name="totallyTimeSpent" value="243745000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18986385" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19591528" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
